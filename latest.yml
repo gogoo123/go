@@ -1,8 +1,8 @@
-version: 1.0.18
+version: 1.2.0
 files:
-  - url: Go加速_setup_1.0.18.exe
-    sha512: QvxmSq7I2UNqGJGT6SFbMtJih+lrBQbwdVm/hRhek/p8tjm8R2RqICHCesiQWoktV93b4F3Zu9x3Z3ePwXb3dQ==
-    size: 73775851
-path: Go加速_setup_1.0.18.exe
-sha512: QvxmSq7I2UNqGJGT6SFbMtJih+lrBQbwdVm/hRhek/p8tjm8R2RqICHCesiQWoktV93b4F3Zu9x3Z3ePwXb3dQ==
-releaseDate: '2022-05-11T07:22:53.173Z'
+  - url: Go加速_setup_1.2.0.exe
+    sha512: tGUjoSMwjNdCH3UMoTJSklNvM0MGyommCN12mYNFGlGMiISfqF4n1hOvCv55o1KSQlrX59J4ZPpKwVHGuFEQyw==
+    size: 73801592
+path: Go加速_setup_1.2.0.exe
+sha512: tGUjoSMwjNdCH3UMoTJSklNvM0MGyommCN12mYNFGlGMiISfqF4n1hOvCv55o1KSQlrX59J4ZPpKwVHGuFEQyw==
+releaseDate: '2022-08-19T17:08:24.165Z'
